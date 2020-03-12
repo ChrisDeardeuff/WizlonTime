@@ -20,7 +20,7 @@ import javafx.scene.input.KeyCode;
 import javafx.scene.paint.Color;
 import javafx.scene.text.Font;
 
-public class WislonTime extends Application {
+public class WizlonTime extends Application {
 	public static boolean Hour24 = true;
 
 	protected BorderPane getPane() {
